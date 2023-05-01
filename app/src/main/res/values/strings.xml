@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation and Uset Github API</string>
+    <string name="search_hint">Masukkan Kata Kunci</string>
+    <string name="Menu_Awal">Menu Awal</string>
+    <string name="review">Masukkan Kata Kunci</string>
+    <string name="Pengaturan_Akun">Pengaturan Akun</string>
+    <string name="Pengaturan_Menu">Pengaturan Menu</string>
+</resources>
